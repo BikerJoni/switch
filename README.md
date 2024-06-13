@@ -6,3 +6,8 @@
  3- ? "true qiymat uchun izoh"
  4- : "false qiymay uchun izoh kiritamiz" ; _asosiysi "";" nuqtali vergulni faqat ikkinchi izohdan keyin qoyamiz holos_.
  5- Console.WriteLine() ni _bool_ qiymat uchun kiritib qoyamiz.
+
+
+# SWITCH ni ishlatilishi
+
+o'zgaruvchini o'zini kiritib "switch" deb yozib keyin => shu ni ishlatamiz. misollarini .cs larda keltitib o'tganman.
